@@ -34,4 +34,6 @@ O arquivo **minha-evidencia.png** mostra o programa rodando no terminal.
 3. Executar
 4. Ver as mensagens no terminal
 
-![minha-evidencia](https://github.com/user-attachments/assets/09f40637-a97b-40aa-ad9f-c54fe9f80fd0)
+
+![minha-evidencia](https://github.com/user-attachments/assets/2a6a1069-2a1f-433f-9df2-f14d50ae83e7)
+
